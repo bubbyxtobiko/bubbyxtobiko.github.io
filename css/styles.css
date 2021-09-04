@@ -11424,7 +11424,7 @@ header.masthead .masthead-heading {
 }
 @media (min-width: 300px) and (max-width: 768px) {
   header.masthead {
-    background-image: url("../assets/img/3.jpg");
+    background-image: url("../assets/img/33.jpg");
     padding-top: 17rem;
     padding-bottom: 12.5rem;
   }
@@ -11432,7 +11432,6 @@ header.masthead .masthead-heading {
     font-size: 2.5rem;
     font-weight: 700;
     line-height: 5rem;
-    margin-top: 16rem;
     margin-bottom: 4rem;
   }
 }
