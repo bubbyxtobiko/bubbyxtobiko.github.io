@@ -11401,8 +11401,8 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/bg.jpg");
-  object-fit: cover
+  background-image: url("../assets/img/bg.jpeg");
+  object-fit: cover;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11438,7 +11438,8 @@ header.masthead .masthead-heading {
 @media (min-width: 768px) {
   header.masthead {
     padding-top: 17rem;
-    background-image: url("../assets/img/bg.jpg");
+    padding-bottom: 3rem;
+    background-image: url("../assets/img/bg.jpeg");
   }
   header.masthead .masthead-subheading {
     font-size: 2.25rem;
